@@ -805,7 +805,7 @@
   }
 
   .imagen1-seccion4{
-    margin-left: 40%;
+    margin-left: 49%;
     margin-top: 60px;
   }
 
@@ -1136,12 +1136,14 @@
     width: 50%;
   }
 
-  .imagen1-seccion4 {
-    margin-left: 40%;
-    margin-top: 120px;
-    width: 60%;
-    height: 30%;
-  }
+   .imagen1-seccion4 {
+        margin-left: 40%;
+        margin-top: 120px;
+        width: 60%;
+        height: 30%;
+        padding-left: 15%;
+        padding-right: 4%;
+    }
 
   .imagen1-seccion5 {
     position: absolute;
@@ -2776,7 +2778,7 @@
     position: absolute;
     margin-left: 3%;
     margin-top: 390px;
-    width: 310px;
+    width: 301px;
     height: 230px;
   }
 
