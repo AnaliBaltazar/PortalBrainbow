@@ -300,7 +300,7 @@
 }
 
 
-/*seccion4*/
+/*seccion4 Risktech*/
 
 .seccion4{
   position: static;
@@ -365,7 +365,7 @@
 }
 
 
-/*seccion5*/
+/*seccion5 Insurtech*/
 
 .seccion5{
   position: static;
@@ -407,7 +407,7 @@
   position: absolute;
   margin-left: 18%;
   margin-top: 110px;
-  width: 710px;
+  width: 700px;
   height: 560px;
 }
 
@@ -854,8 +854,8 @@
 
   .imagen1-seccion5{
     position: absolute;
-    margin-left: 5%;
-    margin-top: 110px;
+    margin-left: 6%;
+    margin-top: 100px;
     width: 710px;
     height: 560px;
   }
@@ -1132,7 +1132,7 @@
 
   .imagen1-seccion3 {
     margin-left: 5%;
-    margin-top: 100px;
+    margin-top: 110px;
     width: 50%;
   }
 
@@ -1141,14 +1141,14 @@
      margin-top: 180px;
      width: 56%;
      height: 30%;
-     /*padding-left:8%;
-     padding-right:4%;*/
+     padding-left:10%;
+     padding-right:4%;
     }
 
   .imagen1-seccion5 {
     position: absolute;
-    margin-left: 5%;
-    margin-top: 110px;
+    margin-left: 9%;
+    margin-top: 80px;
     width: 50%;
     height: 560px;
   }
@@ -1578,7 +1578,7 @@
 
   .imagen1-seccion5{
     position: absolute;
-    margin-left: 22%;
+    margin-left: 25%;
     margin-top: 300px;
     width: 460px;
     height: 387px;
@@ -2842,7 +2842,7 @@
 
   .imagen1-seccion5{
     position: absolute;
-    margin-left: 3%;
+    margin-left: 1.5%;
     margin-top: 390px;
     width: 310px;
     height: 230px;
