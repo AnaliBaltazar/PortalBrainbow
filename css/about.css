@@ -1324,9 +1324,12 @@
     margin-left: -100px;
   }
 
-  .imagen1-about{
-    display:none;
-  }
+    .imagen1-about {
+        /*display:none; */
+        width: 80%;
+        margin-top: -25px;
+        margin-bottom: 0px;
+    }
 
   .imagen1-2-about{
     display: block;
