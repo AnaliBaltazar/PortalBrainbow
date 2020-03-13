@@ -220,9 +220,9 @@
 
 .imagen5-about { /*BRANINBOW_PROCESO*/
     position: absolute;
-    width: 25%;
-    margin-left: 180px;
-    margin-top: 348px; /*72px*/
+    width: 33%; /*Tamaño de la imagen*/
+    margin-left: 155px; /*Derecha o izquierda*/
+    margin-top: 335px; /*72px*/ /*Arriba o abajo*/
 }
 
 .num-about{
@@ -977,9 +977,10 @@
   }
 
   .imagen5-about{ /*BRAINBOW_PROCESO*/
-      width: 20%;
-      margin-top: 275px;
-      margin-left: 74px;
+      position:absolute;
+      width: 26%;
+      margin-left: 54px;
+      margin-top: 265px;
   }
 
   .textonum{
@@ -1399,9 +1400,10 @@
 
   .imagen5-about { /*BRAINBOW_PROCESO*/
         position: absolute;
-        width: 16%;
-        margin-top: 338px;
-        margin-left: -58px;
+        width: 21.5%;
+        margin-left: -80px;
+        margin-top: 334px;
+        
   }
 
   .num-about {
