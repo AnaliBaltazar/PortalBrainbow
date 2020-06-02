@@ -707,7 +707,9 @@
 
 
 @media only screen and (max-width:1919px) and (min-width:992px){
-
+body{
+  background-color: pink;
+}
   /*navegación*/
 
   .tamaño-renglon-1{
