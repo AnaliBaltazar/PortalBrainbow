@@ -708,6 +708,9 @@
 
 @media only screen and (max-width:1919px) and (min-width:992px){
   /*navegación*/
+  body{
+    background-color: paleturquoise;
+  }
 
   .tamaño-renglon-1{
     padding-left: 9%;
@@ -1120,6 +1123,10 @@
 }
 
 @media only screen and (max-width:1024px) and (min-width:992px){
+  body{
+    background-color: palegreen;
+  }
+  
   .texto1-seccion1 {
     position: absolute;
     margin-left: 10%;
@@ -1212,6 +1219,9 @@
 
 
 @media only screen and (max-width:991px) and (min-width:576px){
+  body{
+    background-color: pink;
+  }
   /*navegación*/
   .tamaño-renglon-1{
     padding-left: 10%;
@@ -1856,6 +1866,9 @@
 }
 
 @media only screen and (max-width:575px){
+  body{
+    background-color: hotpink;
+  }
 
   .tamaño-renglon-1{
     height: 46px;
@@ -1938,7 +1951,7 @@
 
   .texto1-seccion1{
     position: absolute;
-    margin-left: 10%;
+    margin-left: 4%;
     margin-top: 25%;
     padding-right: 5%;
     text-align: center;
@@ -1953,7 +1966,7 @@
 
   .texto2-seccion1{
     position: absolute;
-    margin-left: 4%;
+    margin-left: 0%;
     margin-top: 53%;
     padding-right: 4%;
     text-align: center;
@@ -1968,7 +1981,7 @@
 
   .boton1-seccion1{
     position: absolute;
-    margin-left: 28%;
+    margin-left: 20%;
     margin-top: 150%;
     height: 46px;
     width: 209px;
@@ -2085,7 +2098,7 @@
 
   .lista-seccion3{
     padding-right: 13%;
-    margin-left: 10%;
+    margin-left: 4%;
     font-size: 14px;
     margin-top: 265px;
     position: absolute;
@@ -2097,9 +2110,14 @@
     font-weight: 500;
     opacity: 1;
   }
-
   .negra-seccion3{
     font-weight: 700;
+  }
+  .lista-texto1{
+    margin-top: 11%;
+  }
+  .lista-texto2{
+    margin-top: 6%;
   }
 
 
@@ -2151,7 +2169,7 @@
 
   .lista-seccion4{
     padding-right: 13%;
-    margin-left: 10%;
+    margin-left: 4%;
     font-size: 14px;
     margin-top: 265px;
     position: absolute;
@@ -2166,6 +2184,9 @@
 
   .negra-seccion4{
     font-weight: 700;
+  }
+  .lista-texto4{
+    margin-top: 6%;
   }
 
 
@@ -2217,7 +2238,7 @@
 
   .lista-seccion5{
     padding-right: 13%;
-    margin-left: 10%;
+    margin-left: 4%;
     font-size: 14px;
     margin-top: 265px;
     position: absolute;
@@ -2274,9 +2295,8 @@
   .renglon-seccion6{
     position: absolute;
     width: 80%;
-    margin-left: 18%;
+    margin-left: 17%;
     margin-top: 72px;
-
   }
 
   .card-seccion6{
@@ -2504,6 +2524,9 @@
 
 
 @media only screen and (max-width:320px){
+  body{
+    background-color: lightgreen;
+  }
 
   .tamaño-renglon-1{
     height: 46px;
