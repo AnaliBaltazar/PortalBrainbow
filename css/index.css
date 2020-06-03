@@ -708,10 +708,6 @@
 
 @media only screen and (max-width:1919px) and (min-width:992px){
   /*navegación*/
-  body{
-    background-color: paleturquoise;
-  }
-
   .tamaño-renglon-1{
     padding-left: 9%;
   }
@@ -1123,10 +1119,7 @@
 }
 
 @media only screen and (max-width:1024px) and (min-width:992px){
-  body{
-    background-color: palegreen;
-  }
-  
+
   .texto1-seccion1 {
     position: absolute;
     margin-left: 10%;
@@ -1219,9 +1212,7 @@
 
 
 @media only screen and (max-width:991px) and (min-width:576px){
-  body{
-    background-color: pink;
-  }
+
   /*navegación*/
   .tamaño-renglon-1{
     padding-left: 10%;
@@ -1866,9 +1857,6 @@
 }
 
 @media only screen and (max-width:575px){
-  body{
-    background-color: hotpink;
-  }
 
   .tamaño-renglon-1{
     height: 46px;
@@ -2524,9 +2512,6 @@
 
 
 @media only screen and (max-width:320px){
-  body{
-    background-color: lightgreen;
-  }
 
   .tamaño-renglon-1{
     height: 46px;
