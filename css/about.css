@@ -824,6 +824,7 @@
 }
 
 @media only screen and (max-width:1024px) and (min-width:992px) {
+
     .card-seccion6 {
         width: 200px;
         height: 250px;
@@ -979,8 +980,8 @@
   .imagen5-about{ /*BRAINBOW_PROCESO*/
       position:absolute;
       width: 26%;
-      margin-left: 54px;
-      margin-top: 265px;
+      margin-left: 35px;
+      margin-top: 230px;
   }
 
   .textonum{
@@ -1338,12 +1339,12 @@
     margin-left: -100px;
   }
 
-    .imagen1-about {
-        /*display:none; */
-        width: 80%;
-        margin-top: -25px;
-        margin-bottom: 0px;
-    }
+  .imagen1-about {
+    /*display:none; */
+    width: 80%;
+    margin-top: -25px;
+    margin-bottom: 0px;
+  }
 
   .imagen1-2-about{
     display: block;
@@ -1399,22 +1400,25 @@
   }
 
   .imagen5-about { /*BRAINBOW_PROCESO*/
-        position: absolute;
-        width: 21.5%;
-        margin-left: -80px;
-        margin-top: 334px;
-        
+    position: absolute;
+    width: 21.5%;
+    margin-left: -20px;
+    margin-top: 190px;   
   }
 
   .num-about {
-        width: 33.5px;
-        height: 33.5px;
-        margin-left: 105px;
-        opacity: 1;
-        margin-left: 200px; /*BRAINBOW_PROCESO*/
-        margin-top: 50px; /*BRAINBOW_PROCESO*/
+    width: 33.5px;
+    height: 33.5px;
+    opacity: 1;
+    margin-left: 100px; /*BRAINBOW_PROCESO*/
+    margin-top: -20px; /*BRAINBOW_PROCESO*/
   }
-
+  .num2{
+    margin-top: -100%;
+  }  
+  .num3{
+    margin-top: -50%;
+  }
   .titulonum{
     text-align: center;
     font-size: 25px;
