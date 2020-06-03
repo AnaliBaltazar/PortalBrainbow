@@ -547,7 +547,9 @@
 
 
 @media only screen and (max-width:1919px) and (min-width:992px){
-
+body{
+  background-color: hotpink;
+}
   /*navegación*/
 
   .tamaño-renglon-1{
@@ -824,7 +826,9 @@
 }
 
 @media only screen and (max-width:1024px) and (min-width:992px) {
-
+  body{
+    background-color: cadetblue;
+  }
     .card-seccion6 {
         width: 200px;
         height: 250px;
@@ -866,7 +870,9 @@
 
 
 @media only screen and (max-width:991px) and (min-width:576px){
-
+  body{
+    background-color: palegoldenrod;
+  }
   /*navegación*/
 
   .tamaño-renglon-1{
@@ -1233,7 +1239,9 @@
 }
 
 @media only screen and (max-width:575px){
-
+  body{
+    background-color: greenyellow;
+  }
   .tamaño-renglon-1{
     height: 46px;
     padding-top: 4px;
@@ -1414,10 +1422,10 @@
     margin-top: -20px; /*BRAINBOW_PROCESO*/
   }
   .num2{
-    margin-top: -100%;
+    margin-top: -92%;
   }  
   .num3{
-    margin-top: -50%;
+    margin-top: -53%;
   }
   .titulonum{
     text-align: center;
@@ -1445,6 +1453,11 @@
   .txn3{
     margin-bottom: 320px; /*280px-BRAINBO_PROCESO*/
   }
+  /*.txn4{
+    background-color: aquamarine;
+    padding-left: 5%;
+  }*/
+  
 
   .columna2{
     position: absolute;
@@ -1497,7 +1510,7 @@
     .renglon-seccion6 {
         position: absolute;
         width: 80%;
-        margin-left: 18%;
+        margin-left: 17%;
         margin-top: 72px;
     }
 
@@ -1724,7 +1737,9 @@
 
 
 @media only screen and (max-width:320px){
-
+  body{
+    background-color: aquamarine;
+  }
     .num-about {
         border: 2px solid #6CBB8E;
         text-align: center;
